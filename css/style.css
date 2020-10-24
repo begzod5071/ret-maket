@@ -294,7 +294,7 @@ opacity: 0.6;
 .comment__container::before{
   position: absolute;
    content: "";
-  background-image: url("../img/“.png");
+  background-image: url("../img/block.png");
   background-repeat: no-repeat;
 width: 53px;
 height: 44px;
